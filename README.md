@@ -1,5 +1,7 @@
 **I make no promise to keep this maintained**
 
+**Feel free to contribute !**
+
 ## Official
 
 - [ImHex](https://github.com/WerWolv/ImHex)

@@ -8,7 +8,8 @@
 - [ImHex web version](https://web.imhex.werwolv.net/)
 - [Plugin to add Discord presence](https://github.com/WerWolv/ImHex-Plugin-DiscordRPC)
 - [Plugin to make OpenAI guess the file type](https://github.com/WerWolv/ImHex-Plugin-Oracle)
-- [Plugin to add more hashes](https://github.com/WerWolv/ImHex-Hashes-Plugin)[PL exercices to learn it](https://github.com/WerWolv/ImHex-Patties)
+- [Plugin to add more hashes](https://github.com/WerWolv/ImHex-Hashes-Plugin)
+- [PL exercices to learn it](https://github.com/WerWolv/ImHex-Patties)
 
 ## Unofficial
 
